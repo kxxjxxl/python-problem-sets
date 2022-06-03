@@ -1,0 +1,5 @@
+1. x//y
+2. x%y
+3. i/me
+4. Hi HoHoHoHoHo
+5. (x*mod(y))*(1+(xy/4))**y
